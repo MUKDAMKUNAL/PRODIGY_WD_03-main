@@ -1,1 +1,2 @@
-# PRODIGY_WD_03-main
+# Tarun
+I developed this game using Html-CSS-JavaScript.
